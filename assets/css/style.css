@@ -147,13 +147,16 @@ header nav ul {
   }
 
   aside {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  aside h2 {
+    width: 100%;
   }
 
   aside div {
-    display: inline-block;
     text-align: left;
   }
 
