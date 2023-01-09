@@ -127,15 +127,23 @@ header nav ul {
 
   iframe {
     width: 50% !important;
-    height: 185px !important;
+    height: 170px !important;
     vertical-align: top;
   }
   section {
-    height: 185px;
+    height: 170px;
     width: 49%;
     display: inline-block;
     border-radius: 20px;
     vertical-align: top;
+  }
+
+  section h2 {
+    background-color: rgb(145, 142, 142);
+  }
+
+  input {
+    width: 70%;
   }
 
   aside {
