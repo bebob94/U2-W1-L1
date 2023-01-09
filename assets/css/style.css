@@ -161,6 +161,11 @@ header nav ul {
     margin-left: 3em;
     margin-right: 3em;
   }
+
+  footer address {
+    margin-left: 8em;
+    margin-right: 8em;
+  }
 }
 
 header nav li {
